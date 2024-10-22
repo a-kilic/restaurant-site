@@ -2,17 +2,17 @@ export const NavbarData = [
   {
     id: 1,
     text: "HOME",
-    link: "#",
+    link: "#home",
   },
   {
     id: 2,
     text: "RESTAURANT",
-    link: "#",
+    link: "#restaurant",
   },
   {
     id: 3,
     text: "FOOD & DRINKS",
-    link: "#",
+    link: "#food-and-drinks",
   },
   {
     id: 4,
@@ -21,12 +21,7 @@ export const NavbarData = [
   },
   {
     id: 5,
-    text: "ANFAHRT",
-    link: "#",
-  },
-  {
-    id: 6,
     text: "KONTAKT",
-    link: "#",
+    link: "#kontakt",
   },
 ];
